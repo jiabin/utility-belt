@@ -1,6 +1,6 @@
 # utility-belt
 
-Yet another collection of .dotfiles
+Yet another collection of useful small scripts
 
 Here at Jiabin we believe that documentations are overrated. Who needs a 15 pages long file that bosses you around. Besides being incomplete, clunky and often outdated, an evil documentation can also erode your self-esteem and embarrass you in front of other co-workers.
 
