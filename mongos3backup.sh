@@ -22,3 +22,4 @@ tar -zcvf $OUTNAME.tar.gz $OUTNAME
 rm -rf $OUTNAME
 
 s3cmd put $OUTNAME.tar.gz s3://$BUCKET
+rm $OUTNAME.tar.gz
